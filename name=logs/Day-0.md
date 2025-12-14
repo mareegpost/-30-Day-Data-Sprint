@@ -1,9 +1,10 @@
-Day 0
-GitHub commits: 0
-Upwork proposals: 0
-LinkedIn post: 
-Money earned: $0
-Notes: Starting the 30-Day Data Sprint. Tasks for Day 0:
-- Set alarm to 05:50.
-- Create repo "30-Day-Data-Sprint".
-- Prepare templates and initial README.
+# 30-Day Data Sprint - Day 0
+
+**Status:** Unemployed, $0 income, learning Python/Pandas  
+**Goal:** Earn $500 in 90 days  
+**Today's Work:** Created this repo, started Pandas tutorial  
+
+## Daily Log
+| Day | GitHub Commits | Upwork Proposals | LinkedIn Post | $ Earned | Notes |
+|-----|----------------|------------------|---------------|----------|-------|
+| 0   | 1              | 0                | No            | $0       | Starting from zero |
