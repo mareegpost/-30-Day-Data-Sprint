@@ -3,7 +3,7 @@
 This repo holds daily notebooks, deliverables, and proof for the 30-Day Data Sprint.
 
 Structure
-- /notebooks — dated Jupyter notebooks (YYYY-MM-DD_description.ipynb)
+- /notebooks — dated Jupyter notebooks (2025-12-14_description.ipynb)
 - /logs — daily logs (Day-0.md, Day-1.md, ...)
 - /scripts — helper scripts (data cleaning, export)
 - /assets — images for LinkedIn posts, screenshots
